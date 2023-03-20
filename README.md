@@ -24,3 +24,5 @@ Setelah konsol menampilkan hasil dari perhitungan maka user akan mendapat tawara
 | : | pembagian |
 
 Perlu diingat apabila menginputkan operasi perhitungan pada kalkulator string dan simbol ini pada akhir operasinya harus diikuti dengan tanda sama dengan `=` Karena apabila tidak diikuti dengan tanda `=` maka akan memunculkan pesan bahwa operasi tidak valid
+
+![contoh](model-strig-simbol.gif)
